@@ -4,7 +4,7 @@ fun main(args: Array<String>) {
 
     val input = Scanner(System.`in`)
 
-    print("Enter your Nmae: ")
+    print("Enter your Name: ")
     val name = input.nextLine()
     print("Enter your Birthyear: ")
     val year = input.nextInt()
