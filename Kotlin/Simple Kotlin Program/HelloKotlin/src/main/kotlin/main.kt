@@ -1,5 +1,11 @@
+import java.util.Scanner
+
 fun main() {
 
-    val name = "John Nathaniel S. Arcilla"
-    println("Hello Kotlin " + "I am " + name )
+    val input = Scanner(System.'in')
+
+
+
+
+
 }
